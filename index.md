@@ -8,6 +8,13 @@ Welcome to the **Population Balance Portal**, an open educational resource for l
 
 The portal is maintained by **Heiko Briesen**, **Daniele Marchisio** and **Antonello Raponi**.
 
+## Explore the portal
+
+- [Lectures and slides](lectures.html)
+- [Exercises](exercises.html)
+- [Software and computational examples](software.html)
+- [References](references.html)
+
 ## What are population balances?
 
 Population balance equations describe systems containing entities distributed according to one or more internal properties, such as particle size, composition, age or morphology.
