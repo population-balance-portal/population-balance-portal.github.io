@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use or adapt these materials, please cite them as follows."
+title: "Population Balance Portal"
+authors:
+  - family-names: "Briesen"
+    given-names: "Heiko"
+  - family-names: "Marchisio"
+    given-names: "Daniele"
+  - family-names: "Raponi"
+    given-names: "Antonello"
+year: 2026
+url: "https://population-balance-portal.github.io"
+license: "CC-BY-4.0"
