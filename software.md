@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software and Code
-------------------------
+---
 
 [← Back to the homepage](index.html)
 
