@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lectures
----------------
+---
 
 [← Back to the homepage](index.html)
 
