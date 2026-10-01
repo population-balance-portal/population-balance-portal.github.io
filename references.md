@@ -1,7 +1,7 @@
 ---
 layout: default
 title: References
------------------
+---
 
 [← Back to the homepage](index.html)
 
