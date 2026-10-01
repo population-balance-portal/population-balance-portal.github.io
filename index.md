@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Population Balance Portal
 
 Welcome to the **Population Balance Portal**, an open educational resource for learning and teaching population balance modelling.
