@@ -99,7 +99,7 @@ Suggested citation:
 
 ## Contact
 
-**Prof. Heiko Brisen**
+**Prof. Heiko Briesen**
 Technische Universität München
 
 **Prof. Daniele Marchisio**
